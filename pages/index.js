@@ -15,6 +15,7 @@ export default function Home() {
 		{ value: "lg", name: "18px" },
 		{ value: "xl", name: "20px" },
 		{ value: "2xl", name: "24px" },
+		{ value: "3xl", name: "30px" },
 	];
 	const fontWeights = [
 		{ value: "light", name: "300" },
